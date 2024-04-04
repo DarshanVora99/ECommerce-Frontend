@@ -6,7 +6,7 @@
 }
 
 .shop-category-products{
-    /* top right bottom left */
+ 
     margin: 20px 20px 20px 30px ;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;

@@ -1,13 +1,13 @@
-/* Add Some Styling for .item */
+
 .item {
   width: 350px;
   
   background-color: #ccc;
   margin-bottom: 50px;
-}*/
+}
 
 
-/* Add Some Styling for .container */
+
 .container {
   position: relative;
   max-width: 700px;
