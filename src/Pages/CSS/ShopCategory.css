@@ -1,0 +1,14 @@
+.shop-category-banner{
+    display: block;
+    width: 81%;
+    margin: 30px auto;
+
+}
+
+.shop-category-products{
+    /* top right bottom left */
+    margin: 20px 20px 20px 30px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 80px;
+}

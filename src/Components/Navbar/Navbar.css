@@ -31,6 +31,7 @@
     display: flex;
     gap: 3px ;
     cursor: pointer;
+    
 }
 
 .nav-login-cart{
@@ -47,3 +48,5 @@
     
 
 }
+
+/* Write a CSS to make navbar links look good */
